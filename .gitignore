@@ -1,0 +1,5 @@
+NUL
+node_modules/
+dist/
+.vscode/
+*.log

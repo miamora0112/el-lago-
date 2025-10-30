@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "onguiwalk_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_walk",
+                    "frame": "w13"
+                }
+            ]
+        },
+        {
+            "key": "ongui_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_walk",
+                    "frame": "w"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w1"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w2"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w3"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w4"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w5"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w6"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w7"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w8"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w9"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w10"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w11"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w12"
+                },
+                {
+                    "key": "ongui_walk",
+                    "frame": "w13"
+                }
+            ]
+        }
+    ]
+}

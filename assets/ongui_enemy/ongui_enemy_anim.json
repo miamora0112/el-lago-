@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "onguienemy_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w13"
+                }
+            ]
+        },
+        {
+            "key": "onguienemy_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w1"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w2"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w3"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w4"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w5"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w6"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w7"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w8"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w9"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w10"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w11"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w12"
+                },
+                {
+                    "key": "ongui_enemy",
+                    "frame": "w13"
+                }
+            ]
+        }
+    ]
+}

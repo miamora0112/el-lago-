@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "ongui_enemy_atack_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_enemy_atack",
+                    "frame": "b3"
+                }
+            ]
+        },
+        {
+            "key": "ongui_enemy_atack",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui_enemy_atack",
+                    "frame": "b"
+                },
+                {
+                    "key": "ongui_enemy_atack",
+                    "frame": "b1"
+                },
+                {
+                    "key": "ongui_enemy_atack",
+                    "frame": "b2"
+                },
+                {
+                    "key": "ongui_enemy_atack",
+                    "frame": "b3"
+                }
+            ]
+        }
+    ]
+}

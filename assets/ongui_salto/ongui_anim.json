@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "salto_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui",
+                    "frame": "b6"
+                }
+            ]
+        },
+        {
+            "key": "salto",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "ongui",
+                    "frame": "b"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b1"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b2"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b3"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b4"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b5"
+                },
+                {
+                    "key": "ongui",
+                    "frame": "b6"
+                }
+            ]
+        }
+    ]
+}
